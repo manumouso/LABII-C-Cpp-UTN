@@ -1,0 +1,6 @@
+Email			Nombre de Usuario		Cantidad de Productos		Total Facturable
+0.0@gmail.com		pepito				10062				$10079516.00
+1.0@gmail.com		pepia				167				$267748.41
+110@gmail.com		cpepi				47				$72809.95
+2.0@gmail.com		ipepita				68				$505782.09
+8.0@gmail.com		apepit.1.1.1				25				$47660.60
